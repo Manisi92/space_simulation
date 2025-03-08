@@ -1,27 +1,28 @@
 # Space Simulation Project
 
-Questo è un progetto di simulazione spaziale scritto in Python. Simula il movimento delle navette spaziali sotto l'influenza della gravità e include un'interfaccia grafica costruita con Pygame.
+This is a space simulation project written in Python. It simulates the movement of spacecraft under the influence of gravity and includes a graphical interface built with Pygame.
 
-## Requisiti
+## Requirements
 
-- Python 3.x
-- Pygame
-- NumPy
-- Matplotlib
+    Python 3.x
+    Pygame
+    NumPy
+    Matplotlib
 
-## Come eseguire
+## How to Run
 
-1. Clona il repository:
+# 1. Clone the repository:
 git clone https://github.com/username/space_simulation.git
 
-2. Installa le dipendenze:
+# 2. Install the dependencies:
 pip install pygame numpy matplotlib
 
-3. Esegui la simulazione:
+# 3. Run the simulation:
 python src/simulation.py
 
-4. Esegui l'interfaccia grafica:
+# 4. Run the graphical interface:
 python src/ui.py
 
-License
+
+## License
 This project is open-source and available under the MIT License.
